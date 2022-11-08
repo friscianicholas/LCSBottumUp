@@ -1,4 +1,3 @@
-package dynamicProgramming401;
 import java.io.*;
 import java.util.*;
 public class LCSbottomup {
